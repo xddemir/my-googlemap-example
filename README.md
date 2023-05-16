@@ -15,7 +15,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Video](#video)
+- [Images&Videos](#Images&Videos)
 - [Usage](#usage)
 - [Contact](#Contact)
 - [Contributing](../CONTRIBUTING.md)
@@ -40,8 +40,9 @@ npx expo install --save
 npx expo start
 ```
 
-## 🔭 Images & Videos
+## 🔭 Images & Videos <a name = "Images&Videos"></a>
 
+https://github.com/xddemir/my-googlemap-example/assets/56155535/0037401f-964e-4aed-9a37-8a8863ba855f
 
 ## ✍️ Contact <a name = "Contact"></a>
 

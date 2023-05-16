@@ -42,7 +42,8 @@ npx expo start
 
 ## 🔭 Images & Videos <a name = "Images&Videos"></a>
 
-https://github.com/xddemir/my-googlemap-example/assets/56155535/0037401f-964e-4aed-9a37-8a8863ba855f
+https://github.com/xddemir/my-googlemap-example/assets/56155535/3400dbb9-7ac5-44e5-a451-ddb2ac9effad
+
 
 ## ✍️ Contact <a name = "Contact"></a>
 

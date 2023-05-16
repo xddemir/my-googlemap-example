@@ -1,4 +1,4 @@
-<h1 align="center">React Native - Google Map Integration</h3>
+<h1 align="center">React Native - My Google Map Example</h3>
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-React Native Map Example is to integrate the Google Map into your React Native Application. To integrate the Map in our example we will use a very good library called react-native-maps. Which provides MapView component which is very easy to use.
+My Google Map Example is to integrate the Google Map into your React Native Application. To integrate the Map, Library called ***react-native-maps***, which provides MapView component which is very easy to use.
 
 ## 🎈 Usage <a name = "usage"></a>
 
